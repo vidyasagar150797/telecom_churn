@@ -8,3 +8,5 @@ def model2():
 
 def model3():
     print("this is model three")
+
+print("Model2 performing well")

@@ -10,5 +10,5 @@ def data_preprocess_2():
 data_preprocess_2 = data_preprocess_2()
 print(data_preprocess_2)
 
-def wrong_func():
-    print("this function is giving errors")
+def wrong_func1():
+    print("wrong func1")

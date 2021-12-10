@@ -12,3 +12,6 @@ print(data_preprocess_2)
 
 def wrong_func1():
     print("wrong func1")
+
+def wrong_func2():
+    print("wrong func2")

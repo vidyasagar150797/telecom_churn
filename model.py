@@ -10,3 +10,5 @@ def model3():
     print("this is model three")
 
 print("Model2 performing well")
+
+print("This statement will give conflicts between model and master branches for model.py file")
